@@ -1,0 +1,10 @@
+.home {
+  padding-top: 70px;
+}
+
+section {
+  min-height: 100vh;
+  padding: 4rem 0;
+  scroll-margin-top: 70px;
+}
+
